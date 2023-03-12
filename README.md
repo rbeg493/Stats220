@@ -1,6 +1,6 @@
 # Stats220 
 
-This is the repo where I will be storing all my information regarding **Stats220** projects like:
+I am a compsci student and this is the repo where I will be storing all my information regarding **Stats220** projects like:
 * Images to be used in projects
 * URL's
 * Steps for each project
