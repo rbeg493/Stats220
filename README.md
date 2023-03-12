@@ -7,6 +7,7 @@ I am a compsci student and this is the repo where I will be storing all my infor
 
 ### Useful URL's
 * https://dillinger.io/ *(Good to practice coding and be able to instantly see the output)*
+* https://rbeg493.github.io/Stats220/ *My first url*
 
 ### Project 1
 1. Set up a GitHub page
