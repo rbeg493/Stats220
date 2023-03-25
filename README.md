@@ -7,7 +7,8 @@ I am a compsci student and this is the repo where I will be storing all my infor
 
 ### Useful URL's
 * https://dillinger.io/ *(Good to practice coding and be able to instantly see the output)*
-* https://rbeg493.github.io/Stats220/ *My first url*
+* https://rbeg493.github.io/Stats220/ *Project 1 URL*
+* https://forms.gle/emoUTujR6bZuCU198 *Project 2 Survey Link*
 
 ### Project 1
 1. Set up a GitHub page
@@ -19,7 +20,7 @@ I am a compsci student and this is the repo where I will be storing all my infor
 * https://rbeg493.github.io/Stats220/ (Prjoect 1 end product)
 
 ## Project 2
-1. Design a survey
+1. Design a survey *https://forms.gle/emoUTujR6bZuCU198*
 2. Collect Data
 3. Explore Data
 4. Create a report
