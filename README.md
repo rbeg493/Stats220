@@ -16,3 +16,11 @@ I am a compsci student and this is the repo where I will be storing all my infor
 4. HTML creation
 5. Setting up GitHub page
 6. Write a report
+* https://rbeg493.github.io/Stats220/ (Prjoect 1 end product)
+
+## Project 2
+1. Design a survey
+2. Collect Data
+3. Explore Data
+4. Create a report
+5. Dynamic Analysis
